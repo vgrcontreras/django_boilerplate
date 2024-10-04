@@ -2,7 +2,7 @@
 name = "django-boilerplate"
 version = "0.1.0"
 description = ""
-authors = ["Victor Contreras <vgabriel@mslcorporate.com.br>"]
+authors = ["Victor Contreras <contreras3991@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
