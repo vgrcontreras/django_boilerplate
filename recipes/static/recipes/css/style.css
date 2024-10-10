@@ -162,6 +162,7 @@ h6 {
 
 .recipe-list-item {
     max-width: 64rem;
+    height: fit-content;
 }
 
 .recipe-list-item:hover {
@@ -240,6 +241,10 @@ h6 {
     padding: var(--spacing-gutter-large);
 }
 
+.recipe-preparation {
+    padding: var(--spacing-gutter-medium);
+}
+
 .main-footer a {
     color: var(--color-white);
     text-decoration: none;
@@ -260,4 +265,5 @@ h6 {
     transform: scale(1);
     box-shadow: -5px 5px 15px rgba(0, 0, 0, .2);
 }
+
 
